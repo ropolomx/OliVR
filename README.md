@@ -1,3 +1,3 @@
 # OliVR
 
-__Oli__gonucleotide __V__erification for __R__esearch
+**Oli**gonucleotide **V**erification for **R**esearch
