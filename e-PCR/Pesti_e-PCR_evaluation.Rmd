@@ -1,0 +1,43 @@
+---
+title: "Evaluation of Pestivirus primers"
+author: "Rodrigo Ortega Polo"
+date: "June 10, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. I evaluated the following primers:
+
+__Pan-Pestivirus primers__
+
+- _Pesti-11453-F_
+- _Pesti-11607-R_
+
+__Atypical porcine pestivirus primer and probe set__
+
+- _APPV-NS5B-303F_
+- _APPV-NS5B-385R_
+- _APPV-NS5B-335-FAM_ (probe)
+
+2. There were two databases used to test the primers were:
+Pestivirus database (Obtained from ViPR)
+
+
+Only sequences equal or larger than 200 nucleotides were evaluated.
+
+3. [NCBI's e-PCR standalone application](http://www.ncbi.nlm.nih.gov/tools/epcr/) was used to evaluate the amplification of the primers __pairs__ vs. the databases. Primers and the real-time PCR probe were evaluated individually, and also as pairs.
+
+4. Summary of results
+
+### Pan-Pestivirus primers
+
+Primer | Orientation | Number of hits with 0, 1, 2 or 3 mismatches | %coverage
+-------|-------------|---------------------------------------------|----------
+Pesti-11453-F | Forward | 1364 | 68.2%
+Pesti-11607-R | Reverse | 971 | 48.55
+
+### Pan-

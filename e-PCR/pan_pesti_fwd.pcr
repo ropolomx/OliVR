@@ -1,0 +1,950 @@
+##########################################################################
+#   STS                                                                                                                       48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   |||||||| ||||| || ||||||  
+#   Seq gb:GQ902940|Organism:Border_disease_virus|Strain_Name:Gifhorn|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACTGCAATCCCAAAGAATGAGAA...106...ATGTACAAGTGGGTCAAACAGAAAcc
+gb:GQ902940|Organism:Border_disease_virus|Strain_Name:Gifhorn|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                       48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   |||||||| ||||| || ||||||  
+#   Seq gb:KF925348|Organism:Border_disease_virus|Strain_Name:Gifhorn|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACTGCAATCCCAAAGAATGAGAA...106...ATGTACAAGTGGGTCAAACAGAAAcc
+gb:KF925348|Organism:Border_disease_virus|Strain_Name:Gifhorn|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   |||||||| ||||| || ||||||  
+#   Seq gb:AF144618|Organism:Border_disease_virus|Strain_Name:reindeer-1_V60-Krefeld|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACTGCAATCCCAAAGAATGAGAA...106...ATGTACAAATGGGTCAAACAGAAAcc
+gb:AF144618|Organism:Border_disease_virus|Strain_Name:reindeer-1_V60-Krefeld|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JQ418634|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:08GB45-2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCTATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JQ418634|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:08GB45-2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| || |||||   
+#   Seq gb:KF896608|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Bega-like|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTTAAACAGAAGcc
+gb:KF896608|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Bega-like|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                          48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||| ||||| |||||| ||  
+#   Seq gb:KR029825|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Egy/Ismailia/2014|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAATTGGGTGAAGCAGCAAcc
+gb:KR029825|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Egy/Ismailia/2014|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:AF078537:1-1160|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hastings|Gene_Symbol:NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:AF078537:1-1160|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hastings|Gene_Symbol:NS5b	48	+	778	930	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:AF078537|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hastings|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:AF078537|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hastings|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:U86599|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:ILLC|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:U86599|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:ILLC|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	778	930	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:U86600|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:ILLNC|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:U86600|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:ILLNC|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	778	930	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:EF101530|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KE9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:EF101530|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KE9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| ||  
+#   Seq gb:AB078952|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KS86-1cp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAAcc
+gb:AB078952|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KS86-1cp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| ||  
+#   Seq gb:AB078950|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KS86-1ncp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAAcc
+gb:AB078950|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:KS86-1ncp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||| ||||||||||||||| |   
+#   Seq gb:AB078951|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Nose|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTATAACTGGGTAAAGCAGCAGcc
+gb:AB078951|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Nose|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:AF041040|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:AF041040|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:AF078536:1-1901|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Gene_Symbol:NS5b aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:AF078536:1-1901|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Gene_Symbol:NS5b	48	+	778	930	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:AF078536|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:AF078536|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:KP755881|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI2_Ileum_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACGGCAATACCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:KP755881|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI2_Ileum_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:KP755881|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI2_Ileum_3|Protein_Name:nonstructural_protein_NS5b aaACGGCAATACCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:KP755881|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI2_Ileum_3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756201|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_1.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756201|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_1.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756201|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_1.2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756201|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_1.2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756202|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756202|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756202|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_10|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756202|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_10|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756204|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756204|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756204|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756204|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756205|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756205|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756205|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_3|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756205|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756206|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756206|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756206|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756206|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756207|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756207|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756207|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5.2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756207|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_5.2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756208|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756208|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756208|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756208|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756209|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756209|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756209|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7.2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756209|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Colon_7.2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756213|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756213|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756213|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_10|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756213|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_10|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756214|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756214|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756214|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_11|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756214|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_11|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756215|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756215|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756215|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756215|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756216|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756216|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756216|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_3|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756216|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756219|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756219|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756219|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_6|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756219|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_6|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756220|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756220|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756220|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_7|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756220|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_7|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756221|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756221|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756221|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_8|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756221|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_8|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756222|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756222|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756222|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_9|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756222|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Ileum_9|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756224|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756224|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756224|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_10|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756224|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_10|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756225|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756225|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756225|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_11|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756225|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_11|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756226|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756226|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756226|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756226|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756227|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756227|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756227|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_3|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756227|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756229|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_5|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCGATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756229|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_5|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756229|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_5|Protein_Name:nonstructural_protein_NS5b agACAGCGATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756229|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_5|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756230|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756230|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756230|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_6|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756230|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_6|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756231|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756231|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756231|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_7|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756231|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_7|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756232|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756232|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756232|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_8|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756232|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_MLN_8|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756235|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756235|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756235|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756235|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756234|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756234|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756234|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1.2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756234|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_1.2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756236|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756236|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756236|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756236|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756237|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756237|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2.2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756237|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2.2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756237|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_2.2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756239|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756239|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756239|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756239|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756238|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3.3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756238|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3.3|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756238|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3.3|Protein_Name:nonstructural_protein_NS5b aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756238|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_3.3|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756240|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756240|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_6|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756240|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_6|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756240|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_6|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756241|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756241|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_7|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756241|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_7|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756241|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_7|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756243|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756243|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_9|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756243|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_9|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756243|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Obex_9|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756244|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_1|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756244|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_1|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756244|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_1|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756244|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_1|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756245|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756245|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756245|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_10|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756245|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_10|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756246|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756246|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_11|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756246|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_11|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756246|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_11|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756247|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_12|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756247|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_12|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756247|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_12|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756247|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_12|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756249|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756249|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756249|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756249|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Serum_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756262|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756262|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756262|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_10|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756262|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_10|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756256|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756256|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756256|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_2|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756256|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_2|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756261|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756261|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_8|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP756261|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_8|Protein_Name:nonstructural_protein_NS5b agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP756261|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PI5_Tonsil_8|Protein_Name:nonstructural_protein_NS5b	48	+	562	714	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| ||||| ||||||||   106   ||||||||||||||||| ||| ||  
+#   Seq gb:KC853441|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:SuwaCp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAAcc
+gb:KC853441|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:SuwaCp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| ||||| ||||||||   106   ||||||||||||||||| ||| ||  
+#   Seq gb:KC853440|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:SuwaNcp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAAcc
+gb:KC853440|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:SuwaNcp|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX419397|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:UNKNOWN-JX419397|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX419397|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:UNKNOWN-JX419397|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX419398|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:UNKNOWN-JX419398|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX419398|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:UNKNOWN-JX419398|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP941581|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-51998|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP941581|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-51998|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP941583|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-53874|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP941583|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-53874|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KP941589|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-55923|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KP941589|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:USMARC-55923|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   ||||||||||||||||| ||| |   
+#   Seq gb:AF091605|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon_C24V|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTAAAACAGCAGcc
+gb:AF091605|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Oregon_C24V|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297512|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:10270|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297512|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:10270|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KF835698|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:50|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCTATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KF835698|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:50|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KF835699|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:50a|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCTATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KF835699|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:50a|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:HQ174294|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:526|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCTATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:HQ174294|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:526|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297513|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Aries|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297513|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Aries|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KF835697|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:AU526|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCTATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KF835697|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:AU526|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297514|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Columba|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297514|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Columba|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297515|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Corona|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297515|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Corona|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297516|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Gemini|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297516|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Gemini|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| ||  
+#   Seq gb:JX297517|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hercules|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAAcc
+gb:JX297517|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Hercules|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                   48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:KT355592|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:HP-KY-RK13|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:KT355592|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:HP-KY-RK13|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297518|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Leo|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297518|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Leo|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297519|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Lyra|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCGATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297519|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Lyra|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297520|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Mars|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297520|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Mars|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JN380088|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PJ|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JN380088|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:PJ|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JN380089|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Powder|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCAATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JN380089|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Powder|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || ||||| ||||||||   106   |||||||||||||| |||||| |   
+#   Seq gb:JX297521|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Scorpius|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCGATACCAAAAAATGAGAA...106...ATGTACAACTGGGTGAAGCAGCAGcc
+gb:JX297521|Organism:Bovine_viral_diarrhea_virus_1|Strain_Name:Scorpius|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:JQ418635|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:08Q723|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:JQ418635|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:08Q723|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:KC963968|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:11F011|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:KC963968|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:11F011|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AF145967|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:1373|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:AF145967|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:1373|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AF078539:1-1362|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24301|Gene_Symbol:NS5b aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:AF078539:1-1362|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24301|Gene_Symbol:NS5b	48	+	778	930	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AF078539|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24301|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:AF078539|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24301|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:KP057803|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24515|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:KP057803|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:24515|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:HQ174303|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:37621|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:HQ174303|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:37621|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HQ174297|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:446|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HQ174297|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:446|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:JN380081|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:6115|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:JN380081|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:6115|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:JN380082|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:6136|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:JN380082|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:6136|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                            48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:HQ174302|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:793|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:HQ174302|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:793|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HQ174298|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8827|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HQ174298|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8827|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HQ174299|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8831|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HQ174299|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8831|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HQ174300|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8833|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HQ174300|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8833|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || ||| |||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:JN380084|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8844a|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGGATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:JN380084|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:8844a|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                          48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||| ||||| |||  
+#   Seq gb:U18059|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:890|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTGAAGCAAAAAcc
+gb:U18059|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:890|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||| ||||| |||  
+#   Seq gb:AY442521|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:890/256|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTGAAGCAAAAAcc
+gb:AY442521|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:890/256|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||  ||  
+#   Seq gb:AF078540:1-1540|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:BVD2-125c|Gene_Symbol:NS5b aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAACAAcc
+gb:AF078540:1-1540|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:BVD2-125c|Gene_Symbol:NS5b	48	+	778	930	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||  ||  
+#   Seq gb:AF078540|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:BVD2-125c|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAACAAcc
+gb:AF078540|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:BVD2-125c|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                        48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:NC_002032:356-12049|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:C413|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:NC_002032:356-12049|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:C413|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                        48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426480|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D37-13-2_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426480|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D37-13-2_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                        48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426479|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D37-13-2_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426479|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D37-13-2_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                          48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426482|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D75-13-609_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426482|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D75-13-609_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                          48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426481|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D75-13-609_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426481|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:D75-13-609_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AB894423|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:GBK_E+|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:AB894423|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:GBK_E+|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AB894424|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:GBK_E-|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:AB894424|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:GBK_E-|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   ||||| || |||||||||||| ||  
+#   Seq gb:JF714967|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:HLJ-10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTATAAGTGGGTAAAGCAGCAAcc
+gb:JF714967|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:HLJ-10|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                       48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || ||||| || |||||||||||   106   |||||||| |||||||||||  ||  
+#   Seq gb:AB567658|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:Hokudai-Lab/09|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACTGCCATACCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAACAAcc
+gb:AB567658|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:Hokudai-Lab/09|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                                48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:HQ174301|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:IAF-103|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:HQ174301|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:IAF-103|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:LC006970|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:KZ-91-CP|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:LC006970|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:KZ-91-CP|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AF078543:1-1450|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:MN_fetus|Gene_Symbol:NS5b aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:AF078543:1-1450|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:MN_fetus|Gene_Symbol:NS5b	48	+	778	930	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AF078543|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:MN_fetus|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:AF078543|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:MN_fetus|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426484|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_12-13_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426484|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_12-13_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426483|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_12-13_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426483|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_12-13_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426486|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_14-13_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426486|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_14-13_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                         48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426485|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_14-13_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426485|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_14-13_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426488|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-1_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426488|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-1_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426487|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-1_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426487|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-1_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426490|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-8_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426490|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-8_Dup(+)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                           48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426489|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-8_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426489|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NRW_19-13-8_Dup(-)|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:KR093034|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NY-93|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAATGGGTAAAGCAAAAAcc
+gb:KR093034|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:NY-93|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:AY149215|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:p11Q|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCTATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:AY149215|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:p11Q|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||| ||||| |||  
+#   Seq gb:AY149216|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:p24515|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAATGGGTGAAGCAAAAAcc
+gb:AY149216|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:p24515|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426491|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:Potsdam_1600|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426491|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:Potsdam_1600|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                               48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             ||||| || || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:KJ000672|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SD1301|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCAATACCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:KJ000672|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SD1301|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HQ258810|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH-28|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HQ258810|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH-28|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426492|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-14|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426492|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-14|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426493|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-17|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426493|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-17|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                  48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426494|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-23|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426494|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:SH2210-23|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:KP941582|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-53873|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B agACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:KP941582|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-53873|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||| ||| ||  
+#   Seq gb:KT832818|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60765|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAACAGCAAcc
+gb:KT832818|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60765|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:KT832819|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60766|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:KT832819|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60766|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||| ||||| |||  
+#   Seq gb:KT832820|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60767|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTGAAGCAAAAAcc
+gb:KT832820|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60767|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||| ||| ||  
+#   Seq gb:KT832821|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60768|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAACAGCAAcc
+gb:KT832821|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60768|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| ||||||||||| |||  
+#   Seq gb:KT832822|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60779|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAAAAAcc
+gb:KT832822|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60779|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                                     48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||  ||  
+#   Seq gb:KT832823|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60780|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAACAAcc
+gb:KT832823|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:USMARC-60780|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                 48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||||||| ||  
+#   Seq gb:HG426495|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:VOE_4407|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAGCAGCAAcc
+gb:HG426495|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:VOE_4407|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	
+##########################################################################
+#   STS                                                                                                                              48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| || |||||||||||   106   |||||||| |||||||| ||| ||  
+#   Seq gb:FJ527854|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:XJ-04|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATTCCCAAGAATGAGAA...106...ATGTACAAGTGGGTAAAACAGCAAcc
+gb:FJ527854|Organism:Bovine_viral_diarrhea_virus_2|Strain_Name:XJ-04|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	5	0	
+##########################################################################
+#   STS                                                                                                                                                      48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||| || ||||| |||||||||  
+#   Seq gb:HM237795|Organism:Classical_swine_fever_virus|Strain_Name:CSFV/1.1/dp/CSF0382/XXXX/Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACCGCGATCCCAAAGAATGAGAA...106...ATGTATAAGTGGGTGAAGCAGAAAcc
+gb:HM237795|Organism:Classical_swine_fever_virus|Strain_Name:CSFV/1.1/dp/CSF0382/XXXX/Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||| || ||||| |||||||||  
+#   Seq gb:KF977607|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACCGCGATCCCAAAGAATGAGAA...106...ATGTATAAGTGGGTGAAGCAGAAAcc
+gb:KF977607|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||| || ||||| |||||||||  
+#   Seq gb:KF977608|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACCGCGATCCCAAAGAATGAGAA...106...ATGTATAAGTGGGTGAAGCAGAAAcc
+gb:KF977608|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||| || ||||| |||||||||  
+#   Seq gb:KF977609|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACCGCGATCCCAAAGAATGAGAA...106...ATGTATAAGTGGGTGAAGCAGAAAcc
+gb:KF977609|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                             48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             || || || ||||||||||||||   106   ||||| || ||||| |||||||||  
+#   Seq gb:KF977610|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACCGCGATCCCAAAGAATGAGAA...106...ATGTATAAGTGGGTGAAGCAGAAAcc
+gb:KF977610|Organism:Classical_swine_fever_virus|Strain_Name:Koslov|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	6	0	
+##########################################################################
+#   STS                                                                                                                    48   ACAGCCATGCCAAAGAATGAGAA...106...ATGTACAACTGGGTAAAGCAGAAA  
+#                                                             |||||||| ||||| ||||||||   106   |||||||| ||||| |||||||||  
+#   Seq gb:KJ660072|Organism:Pestivirus_Giraffe-1|Strain_Name:PG-2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B aaACAGCCATCCCAAAAAATGAGAA...106...ATGTACAAGTGGGTGAAGCAGAAAcc
+gb:KJ660072|Organism:Pestivirus_Giraffe-1|Strain_Name:PG-2|Protein_Name:RNA-dependent_RNA_polymerase|Gene_Symbol:NS5B	48	+	775	927	153/100-350	4	0	

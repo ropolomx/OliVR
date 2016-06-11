@@ -1,0 +1,85 @@
+setwd("~/virology/Pestivirus/e-PCR")
+panPesti <- read.delim("~/virology/Pestivirus/e-PCR/pan-pesti.pcr", header=FALSE, row.names=NULL)
+View(panPesti)
+panPesti <- read.delim("~/virology/Pestivirus/e-PCR/pan-pesti.pcr")
+View(panPesti)
+len(unique(panPesti$sts))
+length(unique(panPesti$sts))
+library(dplyr)
+testing <- panPesti %>%
+group_by(sts)
+?group_by
+tbl(panPesti$sts, panPesti$seq)
+xtabs(panPesti$sts, panPesti$seq)
+?xtabs
+unique(panPesti$sts)
+panPesti[panPesti$sts == "#- Done",]
+panPesti$primer_type <- character(nrow(panPesti))
+panPesti$primer_type[grep("F", panPesti$sts)] <- "Forward"
+panPesti$primer_type[grep("R", panPesti$sts)] <- "Reverse"
+View(panPesti[panPesti$primer_type == "Forward"]
+)
+View(panPesti[panPesti$primer_type == "Forward"])
+View(panPesti[panPesti$primer_type == "Forward",])
+len(unique(panPesti[panPesti$primer_type == "Forward",]))
+length(unique(panPesti[panPesti$primer_type == "Forward",]))
+length(unique(panPesti$seq[panPesti$primer_type == "Forward",]))
+forward <- panPesti[panPesti$primer_type == "Forward",]
+length(unique(forward$seq))
+length(unique(forward$seq))
+reverse <- panPesti[panPesti$primer_type == "Reverse",]
+length(unique(reverse$seq))
+# Chunk 1: setup
+knitr::opts_chunk$set(echo = TRUE)
+1364 / 2000
+971 / 2000
+forward$seq
+brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq, '|', fixed=TRUE))))
+View(forward)
+brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE)))
+View(brave)
+within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE)))
+)
+head(brave)
+View(head(brave))
+View(head(forward))
+within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(seq), '|', fixed=TRUE)))
+within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(seq), '|', fixed=TRUE))))
+View(head(forward))
+within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE)))
+within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE))))
+forward2 <- within(forward, brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE))))
+View(forward2)
+unique(forward$brave.X2)
+unique(forward2$brave.X2)
+names(forward2)
+unique(forward2$brave)
+head(unique(forward2$brave))
+head(unique(forward2$brave[2]))
+unique(forward2$brave[2])
+length(unique(forward2$brave[2]))
+table(forward2$brave[2]))
+table(forward2$brave[2])
+table(unique(forward2$brave[2]))
+table(forward2$brave[2][unique(forward2$seq)])
+table(forward2$brave[2][unique(forward2$seq),])
+View(table(forward2$brave[2][unique(forward2$seq),]))
+forward_hits <- table(forward2$brave[2][unique(forward2$seq),])
+View(forward_hits)
+colnames(forward_hits) <- c('Organism', 'Freq')
+l
+reverse2 <- within(reverse, brave <- data.frame(do.call('rbind', strsplit(as.character(forward$seq), '|', fixed=TRUE))))
+reverse2 <- within(reverse, brave <- data.frame(do.call('rbind', strsplit(as.character(reverse$seq), '|', fixed=TRUE))))
+reverse_hits <- table(reverse2$brave[2][unique(reverse2$seq),])
+View(reverse_hits)
+View(reverse)
+unique(reverse$gaps)
+View(forward_hits)
+5+1336+1+20+2
+View(reverse_hits)
+summarise(reverse_hits)
+summarise(reverse_hits$Freq)
+2+661+109+195+4
+View(forward_hits)
+View(reverse_hits)
+savehistory("~/virology/Pestivirus/e-PCR/parse_e-PCR_output.R")
