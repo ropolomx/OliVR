@@ -1,0 +1,80 @@
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-303F_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10189	10208	0	0	20/0
+APPV-NS5B-303F_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9943	9962	0	0	20/0
+APPV-NS5B-303F_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10189	10208	0	0	20/0
+APPV-NS5B-303F_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9943	9962	0	0	20/0
+APPV-NS5B-303F_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10189	10208	0	0	20/0
+APPV-NS5B-303F_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9943	9962	0	0	20/0
+APPV-NS5B-303F_1	gi|240114604|ref|NC_012812.1|_Bovine_viral_diarrhea_virus_3_Th/04_KhonKaen,_complete_genome	+	10998	11017	3	0	20/0
+APPV-NS5B-303F_1	gi|657194600|gb|KJ627180.1|_Bovine_viral_diarrhea_virus_3_isolate_Italy-68/13cp,_complete_genome	+	11305	11324	3	0	20/0
+APPV-NS5B-303F_1	gi|657194598|gb|KJ627179.1|_Bovine_viral_diarrhea_virus_3_isolate_Italy-68/13ncp,_complete_genome	+	10999	11018	3	0	20/0
+APPV-NS5B-303F_1	gi|557680985|dbj|AB871953.1|_Bovine_viral_diarrhea_virus_3_RNA,_complete_genome,_strain:_D32/00_'HoBi'	+	10982	11001	3	0	20/0
+APPV-NS5B-303F_1	gi|512749819|gb|JX985409.1|_Bovine_viral_diarrhea_virus_3_isolate_CH-KaHo/cont,_complete_genome	+	10995	11014	3	0	20/0
+APPV-NS5B-303F_1	gi|408474552|gb|JX469119.1|_Bovine_viral_diarrhea_virus_3_strain_JS12/01,_complete_genome	+	10926	10945	3	0	20/0
+APPV-NS5B-303F_1	gi|390189256|gb|JQ612705.1|_Bovine_viral_diarrhea_virus_3_strain_Italy-83/10-cp,_complete_genome	+	11305	11324	3	0	20/0
+APPV-NS5B-303F_1	gi|390189254|gb|JQ612704.1|_Bovine_viral_diarrhea_virus_3_strain_Italy-83/10-ncp,_complete_genome	+	10999	11018	3	0	20/0
+APPV-NS5B-303F_1	gi|343481935|gb|HQ231763.1|_Bovine_viral_diarrhea_virus_3_strain_Italy-1/10-1,_complete_genome	+	10891	10910	3	0	20/0
+APPV-NS5B-303F_1	gi|223047846|gb|FJ040215.1|_Bovine_viral_diarrhea_virus_3_Th/04_KhonKaen,_complete_genome	+	10998	11017	3	0	20/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-385R_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	0	0	19/0
+APPV-NS5B-385R_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	0	0	19/0
+APPV-NS5B-385R_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	0	0	19/0
+APPV-NS5B-385R_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	0	0	19/0
+APPV-NS5B-385R_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	0	0	19/0
+APPV-NS5B-385R_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	0	0	19/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-385R_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	1	0	19/0
+APPV-NS5B-385R_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	1	0	19/0
+APPV-NS5B-385R_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	1	0	19/0
+APPV-NS5B-385R_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	1	0	19/0
+APPV-NS5B-385R_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	-	10253	10271	1	0	19/0
+APPV-NS5B-385R_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	-	10007	10025	1	0	19/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-336-FAM_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+APPV-NS5B-336-FAM_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+APPV-NS5B-336-FAM_1	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_1	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-336-FAM_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	3	0	29/0
+APPV-NS5B-336-FAM_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	3	0	29/0
+APPV-NS5B-336-FAM_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	3	0	29/0
+APPV-NS5B-336-FAM_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	3	0	29/0
+APPV-NS5B-336-FAM_2	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	3	0	29/0
+APPV-NS5B-336-FAM_2	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	3	0	29/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-336-FAM_3	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	1	0	29/0
+APPV-NS5B-336-FAM_3	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	1	0	29/0
+APPV-NS5B-336-FAM_3	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	1	0	29/0
+APPV-NS5B-336-FAM_3	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	1	0	29/0
+APPV-NS5B-336-FAM_3	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	1	0	29/0
+APPV-NS5B-336-FAM_3	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	1	0	29/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+APPV-NS5B-336-FAM_4	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_4	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+APPV-NS5B-336-FAM_4	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_4	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+APPV-NS5B-336-FAM_4	gi|961438600|gb|KU194229.1|_Porcine_pestivirus_1_isolate_ISDVDL2014016573_polyprotein_gene,_complete_cds	+	10222	10250	2	0	29/0
+APPV-NS5B-336-FAM_4	gi|902940422|gb|KR011347.1|_Porcine_pestivirus_1_strain_000515_polyprotein_mRNA,_complete_cds	+	9976	10004	2	0	29/0
+#- Done
+#- sts	seq	strand	from	to	mism	gaps
+#- Done

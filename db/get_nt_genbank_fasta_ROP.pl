@@ -1,4 +1,5 @@
 use LWP::Simple;
+#retrieve unclassified Pestivirus with sequence length limitis
 $query = 'txid63426[Organism:exp] AND 200:13000[Sequence Length]';
 
 #assemble the esearch URL

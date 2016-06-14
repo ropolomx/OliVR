@@ -1,7 +1,5 @@
 ---
 title: "Evaluation of Pestivirus primers"
-author: "Rodrigo Ortega Polo"
-date: "June 10, 2016"
 output: html_document
 ---
 
@@ -10,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-1. I evaluated the following primers:
+1. The following primer and probe sets were evaluated:
 
 __Pan-Pestivirus primers__
 
@@ -23,21 +21,33 @@ __Atypical porcine pestivirus primer and probe set__
 - _APPV-NS5B-385R_
 - _APPV-NS5B-335-FAM_ (probe)
 
-2. There were two databases used to test the primers were:
-Pestivirus database (Obtained from ViPR)
+2. Two databases were used to test the primers:
 
+Includes 2261 sequences of __Pestiviruses NS5B__ (BVDV 1 and 2, CSFV, Border disease among others; __2000 sequences__) and __Unclassified Pestiviruses__(BVDV 3, APPV, rat pestiviruses among others; __261 sequences__).
 
 Only sequences equal or larger than 200 nucleotides were evaluated.
 
-3. [NCBI's e-PCR standalone application](http://www.ncbi.nlm.nih.gov/tools/epcr/) was used to evaluate the amplification of the primers __pairs__ vs. the databases. Primers and the real-time PCR probe were evaluated individually, and also as pairs.
+3. [NCBI's e-PCR standalone application](http://www.ncbi.nlm.nih.gov/tools/epcr/) was used to evaluate the primers vs. the databases. Results are presented as a combination of hits with 0, 1, 2 and 3 mismatches.
 
 4. Summary of results
 
-### Pan-Pestivirus primers
+### Species coverage of individual pan-Pestivirus primers vs. Pestivirus database
 
-Primer | Orientation | Number of hits with 0, 1, 2 or 3 mismatches | %coverage
--------|-------------|---------------------------------------------|----------
-Pesti-11453-F | Forward | 1364 | 68.2%
-Pesti-11607-R | Reverse | 971 | 48.55
+The results for the most important pestiviruses are reported below:
 
-### Pan-
+Organism | Pesti-11453-F %Hits | Pesti-11607-R %Hits | Pesti-11453-F Hits | Pesti-11607-R Hits 
+---------|---------------------|--------------------|-------------------------------|------------------
+Border disease virus | 31.03 | 31.03 | 9 / 29 | 9 / 29
+Bovine viral diarrhea virus 1 | 49.85 | 33.77 | 648 / 1300 | 439 / 1300
+Bovine viral diarrhea virus 2 | 87.93 | 62.93 | 102 /116 | 73 / 116
+Bovine viral diarrhea virus 3 | 8.63 | 11.51 | 12 / 139 | 16 / 139
+Classical swine fever virus | 9.58 | 14.29 | 53 / 553 | 79 / 553
+Porcine pestivirus 1 | 50 | 50 | 2 / 4 | 2 / 4
+Porcine pestivirus isolate Bungowannah | 25 | 25 | 1 / 4 | 1 / 4
+
+----------------------------------------------------------------------------
+### Atypical porcine pestivirus primers
+
+The previous results observed with PrimerBLAST were also observed with this process. There are only two out of four Atypical Porcine Pestivirus strains (Porcine Pestivirus 1) that are hit by both primers.
+
+Notably, there are __9 strains of BVDV3__ that are hit by the __APPV-NS5B-303F__ forward primer (all of them with 3 mismatches). __The reverse primer, as well as the probe, only match the two APPV strains__ that were identified as being the only products of this oligo set (NCBI accessions KU194229.1 and KR011347.1). None of the primers nor does the probe hit any of the Porcine pestivirus isolate Bungowannah sequences. Thus, we can say that the assay is specific to two strains of Porcine Pestivirus 1 and that other pestiviruses will likely not be detected.
