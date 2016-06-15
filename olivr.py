@@ -5,7 +5,7 @@
 ######################################################
 
 from Bio import SeqIO
-from multiprocessing import import cpu_count
+from multiprocessing import cpu_count
 from io import StringIO
 import rpy2.robjects as robjects
 import subprocess
@@ -23,15 +23,12 @@ def arguments():
 
 def dscp_expand(primers_fasta):
     
-    assay = assay_name(primers_fasta)
+    # assay = assay_name(primers_fasta)
 
-    dscp = (
-        'perl',
-        'dscp.pl'
-        )
-    subprocess.Popen(dscp, stdin=sys.stdin)
+    dscp = 'dscp.pl'
+    return subprocess.call(dscp, input = primers_fasta) 
 
-def expand_grid(expanded):
+# def expand_grid(expanded):
 
 def main():
 
