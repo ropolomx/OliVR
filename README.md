@@ -1,6 +1,6 @@
 # OliVR
 
-**Oli**gonucleotide **V**erification for **R**esearch
+### **Oli**gonucleotide **V**erification for **R**esearch
 
-__Testing__
+__Currently in active development__
 
