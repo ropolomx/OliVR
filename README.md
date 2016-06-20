@@ -3,6 +3,7 @@
 Welcome to the Github page of the OliVR project (**Oli**gonucletide **V**erification for **R**esearch)
 
 __This project is currently in active development__
+
 ## Background
 
 The assessment of the sensitivity and specificy of molecular assays for the detection and subtyping of viruses can be complicated due to the fact that viruses, particularly single-stranded RNA viruses, have highly variable genomes and multiple subtypes that are sometimes difficult to characterize. Publicly available databases are being populated with many new sequences of whole genomes or fragments of genomes more rapidly than what traditional methods for design and evaluation of current primers and probes are keeping up with.
@@ -27,13 +28,13 @@ __This list is not definitive yet__. Dependencies might be removed or new depend
 
 2. The `dscp.pl` script for expanding degenerate bases. As a consequence, the `perl` language is also a dependency. I currently work with `perl 5, version 18, subversion 2`.
 
-3. `e-PCR 2.3.9`: the standalone version of the NCBI software for prediction of PCR amplicons and primer binding. This tool is a very similar concept to `primerBLAST`
+3. `e-PCR 2.3.9`: the standalone version of the NCBI software for prediction of PCR amplicons and primer binding. This tool is a very similar concept to `primerBLAST`. It can return output showing the location of mismatches in both oligos for the same primer pair for the same amplicon.
 
 4. The `R` statistical computing language. I am currently working with `R 3.3.0 (2016-05-03)`
 
-5. Depending on how I implement the evaluation, `bowtie` or `bwa` might be added to the pipeline.
+5. Depending on how I implement the evaluation, `bowtie`, `bwa`, `wham`(more experimental) or `vmatch`(need to get licenses by emailing the author) might be added to the pipeline.
 
-6. A more updated version NCBI taxonomy files will need to be downloaded for evaluation of taxonomy. 
+6. A more updated version of the NCBI taxonomy files will need to be downloaded for evaluation of taxonomy.
 
 ## Ideas for the future
 
