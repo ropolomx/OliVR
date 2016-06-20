@@ -1,11 +1,8 @@
 # OliVR
 
-**Oli**gonucleotide **V**erification for **R**esearch
-
-__This project is currently in active development__
-
 Welcome to the Github page of the OliVR project (**Oli**gonucletide **V**erification for **R**esearch)
 
+__This project is currently in active development__
 ## Background
 
 The assessment of the sensitivity and specificy of molecular assays for the detection and subtyping of viruses can be complicated due to the fact that viruses, particularly single-stranded RNA viruses, have highly variable genomes and multiple subtypes that are sometimes difficult to characterize. Publicly available databases are being populated with many new sequences of whole genomes or fragments of genomes more rapidly than what traditional methods for design and evaluation of current primers and probes are keeping up with.
