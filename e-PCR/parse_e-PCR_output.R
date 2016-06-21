@@ -1,6 +1,7 @@
 library(dplyr)
 library(stringr)
 
+# Read-in input PCR table from e-PCR or re-PCR
 panPesti <- read.table("pan-pesti.pcr")
 
 panPesti$primer_type <- character(nrow(panPesti))
