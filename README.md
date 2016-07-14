@@ -43,3 +43,5 @@ Enhancements to this project will be posted in the __Issues__ tab of this reposi
 1. Integration with design methods (e.g. SigOli, PriMux, and in-house developed methods) so that design and evaluation become part of the same modular process. This will allow users to design new assays and assess them vs. the databases. 
 
 2. Incorporation of ThermoBLAST or IDT data (a bit harder to accomplish since these are proprietary tools, but I will see what I can do).
+
+3. Run automated searches of Genbank, return list of accessions, compare to sequences stored locally.
