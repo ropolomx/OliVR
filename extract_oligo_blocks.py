@@ -51,9 +51,9 @@ def concat_dataframes(aln, array_blocks):
     
     sequence_dfs = {k: pd.DataFrame(v[0], index=[rec.id for rec in aln]) for k,v in array_blocks.items()}
     binary_dfs = {k: (sequence_dfs[k].ix[k] == sequence_dfs[k]).astype(int) for k in sequence_dfs}
-    
+
     for b in binary_dfs.values():
-            b['Mismatches'] = b.shape[1] - b.sum(axis=1)
+        b['Mismatches'] = b.shape[1] - b.sum(axis=1)
             
     concatenations = {k:pd.concat([v,v2],1) for k,v in sequence_dfs.items() for k2,v2 in binary_dfs.items() if k == k2}
     
@@ -61,7 +61,7 @@ def concat_dataframes(aln, array_blocks):
 
 def tabulations(concats):
 
-    with open('oligo_blocks.csv', 'a') as f:
+    with open('oligo_blocks.csv', 'w') as f:
         for k,v in concats.items():
             f.write(str(k))
             v.to_csv(f)
