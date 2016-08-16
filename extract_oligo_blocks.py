@@ -60,8 +60,12 @@ def concat_dataframes(aln, array_blocks):
     return concatenations
 
 def tabulations(concats):
-    
-    [v.to_csv(str(k)+'.csv') for k,v in concats.items()]
+
+    with open('oligo_blocks.csv', 'a') as f:
+        for k,v in concats.items():
+            f.write(str(k))
+            v.to_csv(f)
+            f.write('\n')
 
 def main():
 
