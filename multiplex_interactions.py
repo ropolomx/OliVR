@@ -17,8 +17,8 @@ def arguments():
 def cross_interactions(fasta):
     for rec in SeqIO.parse(fasta, 'fasta'):
         for rec2 in SeqIO.parse(fasta, 'fasta'):
-            if not (rec.name.split('_')[0], rec.name.split('_')[-2]) == \
-                    (rec2.name.split('_')[0], rec.name.split('_')[-2]):
+            if not (rec.name.split('-')[0], rec.name.split('_')[-2]) == \
+                    (rec2.name.split('-')[0], rec.name.split('_')[-2]):
                 
                 forward = rec.seq
                 reverse = rec2.seq
@@ -52,5 +52,5 @@ def main():
 
     tabular_sts(args.table_name, args.primers)
 
-if __name__ == '__main__':
+if __name__ == '__main__'
     main()
