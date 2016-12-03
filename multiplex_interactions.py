@@ -22,7 +22,7 @@ def cross_interactions(fasta):
                 
                 forward = rec.seq
                 reverse = rec2.seq
-                primer_names = [rec.name, rec2.name]
+                primer_names = (rec.name, rec2.name)
                 primer_pairs = '/'.join(primer_names)
                 empty1 = ''
                 empty2 = ''

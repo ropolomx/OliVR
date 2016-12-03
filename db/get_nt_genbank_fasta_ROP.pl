@@ -1,6 +1,6 @@
 use LWP::Simple;
 #retrieve unclassified Pestivirus with sequence length limitis
-$query = 'txid63426[Organism:exp] AND 200:13000[Sequence Length]';
+$query = 'txid12058[Organism:exp] NOT txid12110[Organism:exp] AND 100:12000[Sequence Length]';
 
 #assemble the esearch URL
 $base = 'http://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
@@ -15,7 +15,7 @@ $key = $1 if ($output =~ /<QueryKey>(\d+)<\/QueryKey>/);
 $count = $1 if ($output =~ /<Count>(\d+)<\/Count>/);
 
 #open output file for writing
-open(OUT, ">atypical_pesti.fna") || die "Can't open file!\n";
+open(OUT, ">Picornaviridae_not_FMDV.fna") || die "Can't open file!\n";
 
 #retrieve data in batches of 500
 $retmax = 500;
