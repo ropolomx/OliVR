@@ -12,7 +12,7 @@ def arguments():
                         help='Fasta file with expanded degenerate primers')
     return parser.parse_args()
 
-def cross_interactions(fasta):
+def organism_dict(fasta):
     for rec in SeqIO.parse(fasta, 'fasta'):
         for rec2 in SeqIO.parse(fasta, 'fasta'):
             if (rec.name.split('_')[0], rec.name.split('_')[-2]) == \
@@ -39,14 +39,14 @@ def tabular_sts(tablepath,fasta):
     
         out = csv.writer(f, delimiter = '\t')
         
-        for c in cross_interactions(fasta):
-            out.writerow(c)
+        for o in organism_dict(fasta):
+            out.writerow(o)
 
 def main():
 
     args = arguments()
 
-    cross_interactions(args.primers)
+    organism_dict(args.primers)
 
     tabular_sts(args.table_name, args.primers)
 
